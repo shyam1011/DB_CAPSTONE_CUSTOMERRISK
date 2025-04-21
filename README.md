@@ -6,16 +6,16 @@ A growing fintech company wants to build a Customer 360 Data Lakehouse platform 
 2. **Delta Lakehouse Modelling**
 3. **Lakehouse Setup**
 		3.1 Create Workspace
- 		3.2 Create Storage Layer
+   		3.2 Create Storage Layer
 		3.3 Create Unity Catalog & Metastore
 		3.4 Create Catalogs & external locations
 		3.5 Setup Source Control
-4. **Data Ingestion & Processing**
+5. **Data Ingestion & Processing**
 		4.1 Load Bronze & Silver – Historic Data
 		4.2 Load Bronze & Silver – Incremental Data
 		4.3 Machine Learning Model – Using ML Flow
 		4.4 Create Gold Tables (Materialized views and Optimized delta table)
-5. **Cost Monitoring**
-6. **Data Governance**
-7. **Data Serving**
+6. **Cost Monitoring**
+7. **Data Governance**
+8. **Data Serving**
 
